@@ -1,0 +1,16 @@
+body {background-color: bisque;}
+header {background-color: burlywood; color: peru; text-shadow: 3px 4px bisque; font-family: Verdana; text-align: center;  line-height: 1.8;}
+footer {background-color: burlywood; text-align: left; color: peru; font-family: Verdana; }
+aside {font-family: Verdana; width:18%;}
+#left {font-family: Verdana; float:left; background-color: burlywood;}
+#right {font-family: Verdana; float:right; background-color: burlywood;}
+section {font-family: Verdana; width: 58%; margin: auto; text-align: justify; background-color:burlywood; padding: 10px;}
+hr {color: peru; width:800px;}
+h3 {text-align: center; line-height: 1.2;}
+a:link {color:bisque;}
+a:hover {text-decoration:underline;}
+a:visited {color:peru;}
+hr {height: 5px; width: 800px; background-color: bisque;}
+h4 {color: peru; font-size: 20px; text-align: center;}
+#Titolo {font-size: 25px;}
+span {font-weight: bold;}
